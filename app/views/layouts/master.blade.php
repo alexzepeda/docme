@@ -1,7 +1,7 @@
 <html>
 <body>
     @section('sidebar')
-        XD
+        Demo -
     @show
 
 <div class="container">
